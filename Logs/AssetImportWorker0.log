@@ -970,3 +970,4 @@ Received Import Request.
 Start importing Assets/Scripts/SaveManager.cs using Guid(7b107697a2805ba4c8af900ef5914a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da0316111435777d52881d4e5d29dad') in 0.001781 seconds
   Import took 0.005305 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
